@@ -1,0 +1,5 @@
+Tarih,Hisse,open,high,low,close,volume,YuksekKapanis_Fark,AcilisKapanis_Fark,AcilisKapanisFark_Ort,AcilisKapanisFark_OrtalamayaGoreDegisim,AcilisKapanisFarkOrt_MaxSon10,HacimOrtalama,%Hacim_HacimOrtalama,Fark_Orani,Kosul,rsi,Tarih1,prev_close,%Deg,isPivot,pointpos,destek,direnc,Tsinyal_Banker_Dip,Tsinyal_Banker_DipKarar
+07-04-2025 10:00,BOSSA,6.68,7.01,6.48,6.96,2886871.0,0.05,0.28,0.04,551.16,0.28,543257.4,431.4,0.18,True,66.71,2025-04-07,6.85,1.61,0,,6.47,ATH,False,False
+03-04-2025 16:00,PLTUR,25.82,26.54,25.76,26.54,575633.0,0.0,0.72,0.01,5042.86,0.72,323500.1,77.94,0.0,True,62.36,2025-04-03,26.18,1.38,0,,25.72,27.5,False,False
+27-03-2025 10:00,BORSK,20.84,21.9,20.84,21.78,520883.0,0.12,0.94,0.12,658.06,0.94,144928.2,259.41,0.13,True,71.71,2025-03-27,20.8,4.71,1,21.9,18.42,21.9,False,False
+24-03-2025 10:00,YATAS,23.8,24.66,23.68,24.56,379027.0,0.1,0.76,0.04,1800.0,0.76,177708.7,113.29,0.13,True,,2025-03-24,23.8,3.19,1,24.66,ATL,24.66,False,False
