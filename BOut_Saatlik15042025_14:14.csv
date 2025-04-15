@@ -1,6 +1,0 @@
-Tarih,Hisse,open,high,low,close,volume,YuksekKapanis_Fark,AcilisKapanis_Fark,AcilisKapanisFark_Ort,AcilisKapanisFark_OrtalamayaGoreDegisim,AcilisKapanisFarkOrt_MaxSon10,HacimOrtalama,%Hacim_HacimOrtalama,Fark_Orani,Kosul,rsi,Tarih1,prev_close,%Deg,isPivot,pointpos,destek,direnc,Tsinyal_Banker_Dip,Tsinyal_Banker_DipKarar
-15-04-2025 12:00,ADESE,1.92,1.93,1.91,1.93,5296615.0,0.0,0.01,0.0,233.33,0.01,3119942.9,69.77,0.0,True,62.23,2025-04-15,1.92,0.52,0,,1.87,1.94,False,False
-14-04-2025 10:00,A1CAP,4.76,4.94,4.75,4.93,3304702.0,0.01,0.17,0.01,1445.45,0.17,732683.1,351.04,0.06,True,64.46,2025-04-14,4.71,4.67,0,,4.69,4.99,False,False
-11-04-2025 11:00,ADGYO,30.1,30.9,30.1,30.86,254826.0,0.04,0.76,0.03,2614.29,0.76,112756.6,126.0,0.05,True,49.15,2025-04-11,30.5,1.18,0,,29.94,32.28,True,True
-09-04-2025 16:00,AEFES,163.0,166.7,162.9,166.0,1737726.0,0.7,3.0,0.09,3233.33,3.0,658519.8,163.88,0.23,True,59.83,2025-04-09,165.7,0.18,0,,161.5,167.3,False,False
-04-04-2025 17:00,ADEL,30.56,32.26,30.48,32.0,823590.0,0.26,1.44,0.09,1536.36,1.44,169768.9,385.12,0.18,True,69.55,2025-04-04,31.02,3.16,0,,30.28,ATH,False,False
